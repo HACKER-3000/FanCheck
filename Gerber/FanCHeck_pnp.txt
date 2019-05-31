@@ -1,0 +1,35 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=FanCHeck
+*Date=13:20:56
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;10k;THT;28.5044;-16.76;-90;Bottom;R1
+2;;TO92 [THT];25.8755;-22.0305;90;Bottom;Q1
+3;;THT;6.91444;-29.46;90;Bottom;toFAN
+4;;;15.657;-16.3031;0;Bottom;TXT1
+5;;THT;24.6944;-29.46;90;Bottom;toPC
+6;;;15.8346;-25.4538;0;Bottom;TXT1
+7;470;THT;8.18444;-6.6;0;Bottom;R3
+8;;TO92 [THT];25.8755;-11.8705;90;Bottom;Q6
+9;;TO92 [THT];5.55554;-22.0305;90;Bottom;Q3
+10;;;16.1363;-7.13923;0;Bottom;TXT1
+11;470;THT;20.8844;-4.06;0;Bottom;R2
+12;;;15.8785;-7.4148;0;Bottom;TXT1
+13;;TO92 [THT];15.7155;-22.0305;90;Bottom;Q2
+14;;;16.0556;-13.7691;0;Bottom;TXT1
+15;;TO92 [THT];5.55554;-11.8705;90;Bottom;Q4
+16;;THT;11.9944;-1.52;90;Bottom;toBiColorLED
+17;;;19.2024;-12.188;0;Bottom;Via1
+18;;;16.242;-22.9198;0;Bottom;TXT1
+19;;TO92 [THT];15.7155;-11.8705;90;Bottom;Q5
+20;;;15.5501;-29.8589;0;Bottom;TXT2
