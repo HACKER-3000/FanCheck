@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<netlist date="Fr Mai 31 13:49:17 2019" sketch="FanCHeck.fzz">
+ <net>
+  <connector id="connector0" name="E">
+   <part id="58060" label="Q3" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector0" name="E">
+   <part id="58062" label="Q3" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector0" name="E">
+   <part id="58120" label="Q5" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector0" name="E">
+   <part id="58122" label="Q5" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector0" name="Pin 0">
+   <part id="212132" label="R2" title="470 Ω Widerstand"/>
+  </connector>
+  <connector id="connector0" name="Pin 0">
+   <part id="212130" label="R2" title="470Ω Resistor"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector2" name="pin3">
+   <part id="57960" label="toFAN" title="Generic male header - 4 pins"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="57962" label="toFAN" title="Generic male header - 4 pins"/>
+  </connector>
+  <connector id="connector1" name="B">
+   <part id="58150" label="Q6" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector1" name="B">
+   <part id="58152" label="Q6" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="57812" label="toPC" title="Generic female header - 4 pins"/>
+  </connector>
+  <connector id="connector2" name="pin3">
+   <part id="57810" label="toPC" title="Generic female header - 4 pins"/>
+  </connector>
+  <connector id="connector0" name="Pin 0">
+   <part id="57750" label="R1" title="10kΩ Resistor"/>
+  </connector>
+  <connector id="connector0" name="Pin 0">
+   <part id="57752" label="R1" title="10k Ω Widerstand"/>
+  </connector>
+  <connector id="connector1" name="B">
+   <part id="58002" label="Q1" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector1" name="B">
+   <part id="58000" label="Q1" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector1" name="B">
+   <part id="58090" label="Q4" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector1" name="B">
+   <part id="58092" label="Q4" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector1" name="B">
+   <part id="58032" label="Q2" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector1" name="B">
+   <part id="58030" label="Q2" title="PNP-Transistor"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="Pin 0">
+   <part id="217470" label="R3" title="470Ω Resistor"/>
+  </connector>
+  <connector id="connector0" name="Pin 0">
+   <part id="217472" label="R3" title="470 Ω Widerstand"/>
+  </connector>
+  <connector id="connector0" name="E">
+   <part id="58090" label="Q4" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector0" name="E">
+   <part id="58092" label="Q4" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector0" name="E">
+   <part id="58002" label="Q1" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector0" name="E">
+   <part id="58000" label="Q1" title="PNP-Transistor"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="pin2">
+   <part id="57960" label="toFAN" title="Generic male header - 4 pins"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="57962" label="toFAN" title="Generic male header - 4 pins"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="57810" label="toPC" title="Generic female header - 4 pins"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="57812" label="toPC" title="Generic female header - 4 pins"/>
+  </connector>
+  <connector id="connector2" name="C">
+   <part id="58060" label="Q3" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector2" name="C">
+   <part id="58062" label="Q3" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector2" name="C">
+   <part id="58000" label="Q1" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector2" name="C">
+   <part id="58002" label="Q1" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector2" name="C">
+   <part id="58032" label="Q2" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector2" name="C">
+   <part id="58030" label="Q2" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector1" name="Pin 1">
+   <part id="57752" label="R1" title="10k Ω Widerstand"/>
+  </connector>
+  <connector id="connector1" name="Pin 1">
+   <part id="57750" label="R1" title="10kΩ Resistor"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector2" name="C">
+   <part id="58150" label="Q6" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector2" name="C">
+   <part id="58152" label="Q6" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector2" name="C">
+   <part id="58120" label="Q5" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector2" name="C">
+   <part id="58122" label="Q5" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="238560" label="Via1" title="Via"/>
+  </connector>
+  <connector id="connector0" name="via">
+   <part id="238561" label="Via1" title="Via"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="57812" label="toPC" title="Generic female header - 4 pins"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="57810" label="toPC" title="Generic female header - 4 pins"/>
+  </connector>
+  <connector id="connector2" name="C">
+   <part id="58090" label="Q4" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector2" name="C">
+   <part id="58092" label="Q4" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="57962" label="toFAN" title="Generic male header - 4 pins"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="57960" label="toFAN" title="Generic male header - 4 pins"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="B">
+   <part id="58060" label="Q3" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector1" name="B">
+   <part id="58062" label="Q3" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector0" name="E">
+   <part id="58150" label="Q6" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector0" name="E">
+   <part id="58152" label="Q6" title="NPN-Transistor"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="pin1">
+   <part id="224832" label="toBiColorLED" title="Generic female header - 2 pins"/>
+  </connector>
+  <connector id="connector0" name="pin1">
+   <part id="224830" label="toBiColorLED" title="Generic female header - 2 pins"/>
+  </connector>
+  <connector id="connector1" name="Pin 1">
+   <part id="212132" label="R2" title="470 Ω Widerstand"/>
+  </connector>
+  <connector id="connector1" name="Pin 1">
+   <part id="212130" label="R2" title="470Ω Resistor"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector3" name="pin4">
+   <part id="57810" label="toPC" title="Generic female header - 4 pins"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="57812" label="toPC" title="Generic female header - 4 pins"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="57962" label="toFAN" title="Generic male header - 4 pins"/>
+  </connector>
+  <connector id="connector3" name="pin4">
+   <part id="57960" label="toFAN" title="Generic male header - 4 pins"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="B">
+   <part id="58120" label="Q5" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector1" name="B">
+   <part id="58122" label="Q5" title="NPN-Transistor"/>
+  </connector>
+  <connector id="connector0" name="E">
+   <part id="58030" label="Q2" title="PNP-Transistor"/>
+  </connector>
+  <connector id="connector0" name="E">
+   <part id="58032" label="Q2" title="PNP-Transistor"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="pin2">
+   <part id="224832" label="toBiColorLED" title="Generic female header - 2 pins"/>
+  </connector>
+  <connector id="connector1" name="pin2">
+   <part id="224830" label="toBiColorLED" title="Generic female header - 2 pins"/>
+  </connector>
+  <connector id="connector1" name="Pin 1">
+   <part id="217472" label="R3" title="470 Ω Widerstand"/>
+  </connector>
+  <connector id="connector1" name="Pin 1">
+   <part id="217470" label="R3" title="470Ω Resistor"/>
+  </connector>
+ </net>
+</netlist>
